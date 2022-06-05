@@ -1,7 +1,8 @@
 # SpringBoot-annotations-cheat-sheet
 
-| Main Class             | @SpringBootApplication       | Spring Boot auto configuration                               |
+|                        | Annotations                  | Description                                                  |
 | ---------------------- | ---------------------------- | ------------------------------------------------------------ |
+| **Main Class**         | @SpringBootApplication       | Spring Boot auto configuration                               |
 |                        |                              |                                                              |
 | **REST Endpoint**      | @RestController              | Class with REST endpoints                                    |
 |                        | @RequestMapping              | REST endpoint method                                         |
@@ -29,4 +30,6 @@
 |                        |                              |                                                              |
 | **Testing**            | @SpringBootTest              | Spring integration test                                      |
 |                        | @AutoConfigureMockMvc        | Configure MockMvc object to test HTTP                        |
+
+
 
